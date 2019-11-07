@@ -35,6 +35,7 @@ Tiene un [_free tier_](https://www.netlify.com/pricing/)
 - [Now for GitHub](https://zeit.co/github)
 - [Easy Deployments With Zeit Now](https://www.youtube.com/watch?v=OF9UkxDOSII)
 - [Zeit Now Deploy a NodeJS Project](https://www.youtube.com/watch?v=1Bfb8pSvoQo)
+- Presets para diferentes tipos de proyectos (frameworks): [`now init`](https://zeit.co/blog/now-init)
 
 #### Pricing
 
