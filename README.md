@@ -6,10 +6,17 @@
 
 ### GitHub Pages
 
+- Gratis para Open Source
 - [Docs](https://pages.github.com/) (repo por proyecto, repo `username.github.io`)
 - [GitHub Pages Deploy & Domain](https://www.youtube.com/watch?v=SKXkC4SqtRk)
 
 ### Netlify (WIP)
+
+- [GitHub Pages vs Netlify](https://www.netlify.com/github-pages-vs-netlify/)
+
+#### Pricing 
+
+Tiene un [_free tier_](https://www.netlify.com/pricing/)
 
 ## Front-End & Back-End
 
@@ -28,3 +35,7 @@
 - [Now for GitHub](https://zeit.co/github)
 - [Easy Deployments With Zeit Now](https://www.youtube.com/watch?v=OF9UkxDOSII)
 - [Zeit Now Deploy a NodeJS Project](https://www.youtube.com/watch?v=1Bfb8pSvoQo)
+
+#### Pricing
+
+Tiene un [_free tier_](https://zeit.co/pricing)
