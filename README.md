@@ -1,4 +1,4 @@
-# notes-deployment
+# deployment :rocket:
 
 - [Netlify vs Now vs GitHub Pages](https://medium.com/liferaydesign/netlify-vs-zeit-vs-github-pages-5f609dd6912b)
 
@@ -40,3 +40,7 @@ Tiene un [_free tier_](https://www.netlify.com/pricing/)
 #### Pricing
 
 Tiene un [_free tier_](https://zeit.co/pricing)
+
+## Comprar dominio
+
+- [Namecheap](https://namecheap.com)
