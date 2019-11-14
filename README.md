@@ -20,6 +20,7 @@
 - [Netlify CLI Command List](https://cli.netlify.com/#netlify-cli-command-list)
 - [Deploy FAST with Netlify CLI](https://www.youtube.com/watch?v=WtZ4bG2K0MA)
 - [Netlify Dev Crash Course | Easy Dev & Deploy](https://www.youtube.com/watch?v=FMhVXOA54x8)
+- [How to host a website on Netlify with a custom domain for FREE — Step by Step Guide](https://levelup.gitconnected.com/how-to-host-domain-to-netlify-site-for-free-step-by-step-guide-45d0c2102db3)
 
 1. Instalar la CLI
 
