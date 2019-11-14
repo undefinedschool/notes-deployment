@@ -14,17 +14,29 @@
 
 - [GitHub Pages vs Netlify](https://www.netlify.com/github-pages-vs-netlify/)
 
-```bash
-npm i -g netlify-cli
-
-netlify
-
-netlify login
-```
-
 #### Netlify CLI
 
 - [Get started with Netlify CLI](https://docs.netlify.com/cli/get-started/)
+- [Netlify CLI Command List](https://cli.netlify.com/#netlify-cli-command-list)
+
+
+1. Instalar la CLI
+
+```bash
+npm i -g netlify-cli
+```
+
+2. Chequear que se haya isntalado correctamente y ver comandos disponibles
+
+```bash
+netlify
+```
+
+3. Linkear la CLI con nuestra cuenta de Netlify
+
+```bash
+netlify login
+```
 
 #### Pricing 
 
