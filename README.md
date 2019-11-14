@@ -14,6 +14,14 @@
 
 - [GitHub Pages vs Netlify](https://www.netlify.com/github-pages-vs-netlify/)
 
+```bash
+npm i -g netlify-cli
+
+netlify
+
+netlify login
+```
+
 #### Netlify CLI
 
 - [Get started with Netlify CLI](https://docs.netlify.com/cli/get-started/)
