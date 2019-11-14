@@ -10,9 +10,13 @@
 - [Docs](https://pages.github.com/) (repo por proyecto, repo `username.github.io`)
 - [GitHub Pages Deploy & Domain](https://www.youtube.com/watch?v=SKXkC4SqtRk)
 
-### Netlify (WIP)
+### Netlify
 
 - [GitHub Pages vs Netlify](https://www.netlify.com/github-pages-vs-netlify/)
+
+#### Netlify CLI
+
+- [Get started with Netlify CLI](https://docs.netlify.com/cli/get-started/)
 
 #### Pricing 
 
