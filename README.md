@@ -18,7 +18,8 @@
 
 - [Get started with Netlify CLI](https://docs.netlify.com/cli/get-started/)
 - [Netlify CLI Command List](https://cli.netlify.com/#netlify-cli-command-list)
-
+- [Deploy FAST with Netlify CLI](https://www.youtube.com/watch?v=WtZ4bG2K0MA)
+- [Netlify Dev Crash Course | Easy Dev & Deploy](https://www.youtube.com/watch?v=FMhVXOA54x8)
 
 1. Instalar la CLI
 
@@ -32,11 +33,30 @@ npm i -g netlify-cli
 netlify
 ```
 
-3. Linkear la CLI con nuestra cuenta de Netlify
+3. [Autenticarnos](https://docs.netlify.com/cli/get-started/#authentication) para linkear la CLI con nuestra cuenta de Netlify
 
 ```bash
 netlify login
 ```
+
+4. Setup del repositorio
+
+```bash
+netlify init
+```
+
+5. Deploy
+
+```bash
+netlify deploy
+```
+
+#### Netlify Dev :rocket:
+
+Básicamente podemos hacer todo desde la terminal 🤘
+
+- [Netlify Dev [BETA]](https://www.netlify.com/products/dev/)
+- [Netlify Dev docs](https://github.com/netlify/cli/blob/master/docs/netlify-dev.md)
 
 #### Pricing 
 
