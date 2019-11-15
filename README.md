@@ -1,6 +1,20 @@
-# deployment :rocket:
+> El siguiente contenido fue elaborado por [@_nhsz](https://twitter.com/_nhsz) como guía para las clases de [undefined school](https://twitter.com/undefinedSchool)
+
+> Son bienvenidos los _issues_ y _PRs_ para mejorar el contenido, corregir errores, etc
+
+# :rocket: Deployment
 
 - [Netlify vs Now vs GitHub Pages](https://medium.com/liferaydesign/netlify-vs-zeit-vs-github-pages-5f609dd6912b)
+
+- [Front-End](#front-end)
+  - [GitHub Pages](#github-pages)
+  - [Netlify](#netlify)
+    - [Netlify CLI](#netlify-cli)
+    - [Netlify Dev](#netlify-dev-rocket)
+    - [Netlify Forms](#netlify-forms)
+    - [Netlify Functions](#netlify-functions)
+- [Front-End & Back-End](#front-end--back-end)
+  - [Now](#now)
 
 ## Front-End
 
