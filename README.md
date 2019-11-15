@@ -18,7 +18,6 @@
 
 - [Get started with Netlify CLI](https://docs.netlify.com/cli/get-started/)
 - [Netlify CLI Command List](https://cli.netlify.com/#netlify-cli-command-list)
-- [Netlify Dev Crash Course | Easy Dev & Deploy](https://www.youtube.com/watch?v=FMhVXOA54x8)
 - [How to host a website on Netlify with a custom domain for FREE — Step by Step Guide](https://levelup.gitconnected.com/how-to-host-domain-to-netlify-site-for-free-step-by-step-guide-45d0c2102db3)
 
 1. Instalar la CLI
@@ -55,8 +54,17 @@ netlify deploy
 
 Básicamente podemos hacer de todo desde la terminal 🤘
 
+- [Netlify Dev Crash Course | Easy Dev & Deploy](https://www.youtube.com/watch?v=FMhVXOA54x8)
 - [Netlify Dev [BETA]](https://www.netlify.com/products/dev/)
 - [Netlify Dev docs](https://github.com/netlify/cli/blob/master/docs/netlify-dev.md)
+
+#### Netlify Forms
+
+Podemos recibir las _submissions_ que nos hagan en un [form](https://docs.netlify.com/forms/setup/) sin necesidad de un backend
+
+#### Netlify Functions
+
+_Functions_ es la forma de usar [_serverless_](https://www.netlify.com/products/functions/) con Netlify. Es una capa de abstracción y simplifcación sobre _AWS Lambda_. Esto nos permite, entre otras cosas, [hostear apps que usen _Express_](https://www.netlify.com/blog/2018/09/13/how-to-run-express.js-apps-with-netlify-functions/)
 
 #### Pricing 
 
