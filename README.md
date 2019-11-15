@@ -6,7 +6,7 @@
 
 ### GitHub Pages
 
-- Gratis para Open Source
+- Es **gratis** y **funciona sólo con repositorios Open Source**
 - [Docs](https://pages.github.com/) (repo por proyecto, repo `username.github.io`)
 - [GitHub Pages Deploy & Domain](https://www.youtube.com/watch?v=SKXkC4SqtRk)
 
