@@ -4,17 +4,21 @@
 
 # :rocket: Deployment
 
-- [Netlify vs Now vs GitHub Pages](https://medium.com/liferaydesign/netlify-vs-zeit-vs-github-pages-5f609dd6912b)
+Para una comparación, ver [Netlify vs. Now vs. GitHub Pages](https://medium.com/liferaydesign/netlify-vs-zeit-vs-github-pages-5f609dd6912b)
+
+## Contenido
 
 - [Front-End](#front-end)
-  - [GitHub Pages](#github-pages)
-  - [Netlify](#netlify)
-    - [Netlify CLI](#netlify-cli)
-    - [Netlify Dev](#netlify-dev-rocket)
-    - [Netlify Forms](#netlify-forms)
-    - [Netlify Functions](#netlify-functions)
+  * [GitHub Pages](#github-pages)
+  * [Netlify](#netlify)
+    + [Netlify CLI](#netlify-cli)
+    + [Netlify Dev](#netlify-dev-rocket)
+    + [Netlify Forms](#netlify-forms)
+    + [Netlify Functions](#netlify-functions)
 - [Front-End & Back-End](#front-end--back-end)
-  - [Now](#now)
+  * [Now](#now)
+
+---
 
 ## Front-End
 
