@@ -53,7 +53,7 @@ netlify deploy
 
 #### Netlify Dev :rocket:
 
-Básicamente podemos hacer todo desde la terminal 🤘
+Básicamente podemos hacer de todo desde la terminal 🤘
 
 - [Netlify Dev [BETA]](https://www.netlify.com/products/dev/)
 - [Netlify Dev docs](https://github.com/netlify/cli/blob/master/docs/netlify-dev.md)
