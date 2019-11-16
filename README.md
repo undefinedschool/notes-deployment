@@ -30,7 +30,7 @@ Para una comparación, ver [Netlify vs. Now vs. GitHub Pages](https://medium.com
 
 ### Netlify
 
-- [GitHub Pages vs Netlify](https://www.netlify.com/github-pages-vs-netlify/)
+- [GitHub Pages vs. Netlify](https://www.netlify.com/github-pages-vs-netlify/)
 
 #### Netlify CLI
 
