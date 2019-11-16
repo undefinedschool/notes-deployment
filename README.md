@@ -31,6 +31,8 @@ Para una comparación, ver [Netlify vs. Now vs. GitHub Pages](https://medium.com
 ### Netlify
 
 - [GitHub Pages vs. Netlify](https://www.netlify.com/github-pages-vs-netlify/)
+- También [**funciona con repositorios privados**](https://docs.netlify.com/configure-builds/repo-permissions-linking/#access-other-repositories-at-build)
+- SI usamos la [CLI](#netlify-cli), podemos hacer el _deploy_ directamente de código sin necesidad de que esté en algún repositorio de GitHub, GitLab, etc
 
 #### Netlify CLI
 
