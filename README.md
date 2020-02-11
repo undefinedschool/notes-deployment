@@ -101,6 +101,12 @@ Tiene un [_free tier_](https://www.netlify.com/pricing/)
 5. [OPCIONAL] Usar un [_alias_](https://zeit.co/blog/automatic-aliasing)
 6. [OPCIONAL] Usar un [_custom domain_](https://zeit.co/docs/v2/custom-domains/)
 
+#### Variables de entorno y secrets
+
+Para setear las variables de entorno, ver 
+  - [Using Environment Variables and Secrets](https://zeit.co/docs/v2/build-step#using-environment-variables-and-secrets)   
+  - [Secrets and Environment Variables in Next.js and Now](https://www.youtube.com/watch?v=pRbQcy9f5ew)
+
 #### Recursos
 
 - [Docs](https://zeit.co/docs)
