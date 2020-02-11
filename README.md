@@ -17,6 +17,7 @@ Para una comparación, ver [Netlify vs. Now vs. GitHub Pages](https://medium.com
     + [Netlify Functions](#netlify-functions)
 - [Front-End & Back-End](#front-end--back-end)
   * [Now](#now)
+    + [Setear variables de entorno y secrets](https://github.com/undefinedschool/notes-deployment#variables-de-entorno-y-secrets)
 
 ---
 
